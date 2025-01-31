@@ -30,12 +30,7 @@ project-root/
    cd NVIDIA-RAPIDS
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run Jupyter Notebook:
+2. Run Jupyter Notebooks:
    ```bash
    jupyter notebook
    ```
